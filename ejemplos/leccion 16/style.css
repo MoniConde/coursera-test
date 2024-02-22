@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  font-size: 130%;
+}
+
+h1
+{
+  color: orangered;
+}
+
+h2 {
+  color: silver;
+}
+
+p {
+  color: powderblue;
+  text-align: center;
+}
